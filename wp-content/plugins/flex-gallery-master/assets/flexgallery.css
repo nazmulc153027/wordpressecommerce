@@ -1,0 +1,19 @@
+.flex-gallery .wrapper {
+    margin: 30px auto;
+}
+
+.flex-gallery table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.flex-gallery table tr td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px 20px;
+}
+
+.flex-gallery table.form-table tr td,
+.flex-gallery table.form-table {
+    border: none;
+}
